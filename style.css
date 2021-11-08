@@ -1,0 +1,16 @@
+h1{
+  text-align: center;
+  color:white;
+}
+body{
+  background: blue;
+}
+
+tr,td,th{
+  color:white;
+  text-align:center;
+}
+
+.center{
+
+}
